@@ -1,5 +1,7 @@
 # cheatMode
 任意のコードを実行前に追加することができます．
+## Download
+[こちらからダウンロードできます](https://www.dropbox.com/s/olk1u6h1a90ejsj/CheatMode.zip?dl=0)
 ## インストール方法
 (Preferences→sketch locationで確認できます)の中のmodesフォルダに入れます． Processingを再起動すると，mode選択のプルダウンにnameが出現するはずです．
 ## 使用方法
